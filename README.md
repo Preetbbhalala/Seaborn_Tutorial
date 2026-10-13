@@ -1,3 +1,3 @@
+<img src="Seaborn.png"/>
 # Seaborn_Tutorial
 Seaborn is built upon Matplot lib which is better for data visualization. 
-<img src="Seaborn.png"/>
