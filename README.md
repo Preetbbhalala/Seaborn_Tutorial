@@ -2,6 +2,8 @@
   <img src="Seaborn.png" alt="seaborn logo" width="480">
 </p>
 
+<br> 
+
 <p align="center">
   Notes and examples for learning <b>Seaborn</b>, the Python library for statistical data visualization built on top of Matplotlib.
 </p>
