@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://colab.research.google.com/github/Preetbbhalala/seaborn_tutorial/blob/main/seaborn_tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python 3.9+">
-  <img src="https://img.shields.io/badge/seaborn-0.13-4C72B0" alt="seaborn 0.13">
+  <img src="https://img.shields.io/badge/seaborn-0.13-4C72B0](https://seaborn.pydata.org/whatsnew/v0.13.2.html" alt="seaborn 0.13">
   <img src="https://img.shields.io/badge/jupyter-notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter notebook">
 </p>
 
